@@ -3,7 +3,9 @@ Professional README Generator
 
 
 ## Description
-![Screenshot](assets/images/screenshot1.png)
+![Screenshot](assets/screenshot.png)
+
+[![A video thumbnail shows the command-line application with a play button overlaying the view.](./Assets/09-thumbnail.png)](https://drive.google.com/file/d/1TyDL1hQ58rLrL_T2EtzGx7Fw472nsMvQ/preview)
 
 
 This is a command-line application to generate a README file. When creating an open source project on GitHub, it is important ot hae a high-quality README for the app. This application will use the Inquirer package
@@ -11,7 +13,12 @@ This is a command-line application to generate a README file. When creating an o
 
 ## Usage
 
-This application is intended to be run from the command-line of a terminal.
+This application is intended to be run from the command-line of a terminal. 
+
+Please install first
+```bash
+npm i
+```
 
 This application can be invoked by using the following command:
 
